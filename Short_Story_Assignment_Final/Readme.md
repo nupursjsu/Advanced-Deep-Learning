@@ -1,1 +1,1 @@
-This folder contains the Short story assignment deliverables.
+This folder contains the Short Story assignment deliverables.
