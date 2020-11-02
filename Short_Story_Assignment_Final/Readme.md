@@ -15,8 +15,8 @@ Topics Covered :
 
 **Medium Link: https://er-nupur55.medium.com/transfer-learning-in-nlp-a-survey-2510e31b5f4c**
 
-**Slide Share Link https://www.slideshare.net/NupurYadav/transfer-learning-in-nlp-a-survey**
+**Slide Share Link: https://www.slideshare.net/NupurYadav/transfer-learning-in-nlp-a-survey**
 
-**Youtube Link https://www.youtube.com/watch?v=Mc828XmdVSA**
+**Video file: Transfer_Learning_in_NLP.mp4**
 
 
